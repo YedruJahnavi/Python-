@@ -1,0 +1,4 @@
+d = float(input("enter d: "))
+t = float(input("enter t: "))
+v = d/t;
+print(v)
