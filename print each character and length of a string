@@ -5,12 +5,14 @@ for character in input_string:
 string_length = len(input_string)
 print(f"the length of the string is: {string_length}")
 
-
 OUTPUT:
-
-input_string = input("enter a string:")
-print("character in input_string:")
-for character in input_string:
-  print(character)
-string_length = len(input_string)
-print(f"the length of the string is: {string_length}")
+enter a string:JAHNAVI
+character in input_string:
+J
+A
+H
+N
+A
+V
+I
+the length of the string is: 7
