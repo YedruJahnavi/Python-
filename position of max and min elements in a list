@@ -1,0 +1,6 @@
+l=[5,8,9,6,2,12,45,3]
+print(l.index(max(l)),l.index(min(l)))
+
+
+output:
+6 4
